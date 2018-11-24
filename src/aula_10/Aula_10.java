@@ -18,6 +18,7 @@ public class Aula_10 {
         // TODO code application logic here
         
         System.out.println("Hello world!");
+        System.out.println("world!");
     }
     
 }
