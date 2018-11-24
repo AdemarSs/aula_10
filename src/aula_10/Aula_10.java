@@ -19,6 +19,7 @@ public class Aula_10 {
         
         System.out.println("Hello world!");
         System.out.println("world!");
+        System.out.println("Hello!");
     }
     
 }
